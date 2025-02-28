@@ -13,4 +13,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?titleAlign=center&lineCount=1&theme=dracula&bg=%23282A36&badge=%23343746&border=%23343746&titleColor=%23BD93F9" alt="My Tech Stack" />
