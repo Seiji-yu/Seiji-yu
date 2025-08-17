@@ -4,7 +4,7 @@
 - 💞️ Looking for anyone
 - 📫 SECRETTTTT
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: A student :))
+- ⚡ Fun fact: A student
 
 <!---
 Seiji-yu/Seiji-yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
